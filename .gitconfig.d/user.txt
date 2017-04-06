@@ -1,0 +1,3 @@
+[user]
+  email = sergey@kulanov.org.ua
+  name = Sergey Kulanov
